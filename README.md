@@ -1,4 +1,4 @@
-This dataset contains information about all the listed restaurants in Hyderabad. This dataset can be utilized to build 
+This dataset contains information about all the listed restaurants in Banglore. This dataset can be utilized to build 
 recommendation system, analyze data trend, predict food price and much more. Dataset column details are as follows:
 
 •links: Contains links to the order page of the restaurants.
